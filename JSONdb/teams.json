@@ -1,0 +1,94 @@
+{
+  "teams": [
+    {
+      "teamName": "Alanyaspor",
+      "cityName": "Antalya",
+      "stadiumName": "Bahçeşehir Okulları Stadyumu"
+    },
+    {
+      "teamName": "Ankaragücü",
+      "cityName": "Ankara",
+      "stadiumName": "Eryaman Stadyumu"
+    },
+    {
+      "teamName": "Antalyaspor",
+      "cityName": "Antalya",
+      "stadiumName": "Antalya Stadyumu"
+    },
+    {
+      "teamName": "Konyaspor",
+      "cityName": "Konya",
+      "stadiumName": "Konya BB Stadyumu"
+    },
+    {
+      "teamName": "Erzurumspor",
+      "cityName": "Erzurum",
+      "stadiumName": "Kazım Karabekir Stadyumu"
+    },
+    {
+      "teamName": "Beşiktaş",
+      "cityName": "İstanbul",
+      "stadiumName": "Vodafone Park"
+    },
+    {
+      "teamName": "Bursaspor",
+      "cityName": "Bursa",
+      "stadiumName": "Bursa BB Stadyumu"
+    },
+    {
+      "teamName": "Rizespor",
+      "cityName": "Rize",
+      "stadiumName": "Çaykur Didi Stadyumu"
+    },
+    {
+      "teamName": "Fenerbahçe",
+      "cityName": "İstanbul",
+      "stadiumName": "Şükrü Saracoğlu Stadyumu"
+    },
+    {
+      "teamName": "Galatasaray",
+      "cityName": "İstanbul",
+      "stadiumName": "Seyrantepe Stadı"
+    },
+    {
+      "teamName": "Göztepe",
+      "cityName": "İzmir",
+      "stadiumName": "Gürsel Aksel Stadyumu"
+    },
+    {
+      "teamName": "Kasımpaşa",
+      "cityName": "İstanbul",
+      "stadiumName": "Recep Tayyip Erdoğan Stadyumu"
+    },
+    {
+      "teamName": "Kayserispor",
+      "cityName": "Kayseri",
+      "stadiumName": "Kadir Has Stadyumu"
+    },
+    {
+      "teamName": "Başakşehir",
+      "cityName": "İstanbul",
+      "stadiumName": "Başakşehir Fatih Terim Stadyumu"
+    },
+    {
+      "teamName": "Sivasspor",
+      "cityName": "Sivas",
+      "stadiumName": "4 Eylül Stadyumu"
+    },
+    {
+      "teamName": "Trabzonspor",
+      "cityName": "Trabzon",
+      "stadiumName": "Şenol Güneş Spor Kompleksi"
+    },
+    {
+      "teamName": "Malatyaspor",
+      "cityName": "Malatya",
+      "stadiumName": "Yeni Malatya Stadyumu"
+    },
+    {
+      "teamName": "Akhisarspor",
+      "cityName": "Manisa",
+      "stadiumName": "Akhisar Stadyum"
+    }
+  ]
+}
